@@ -1,0 +1,15 @@
+current directory: /Users/liudezhi/toupiao/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/Users/liudezhi/.rvm/rubies/ruby-2.7.1/bin/ruby -I /Users/liudezhi/.rvm/rubies/ruby-2.7.1/lib/ruby/site_ruby/2.7.0 -r ./siteconf20210606-99682-wgwa41.rb extconf.rb
+creating Makefile
+
+current directory: /Users/liudezhi/toupiao/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/liudezhi/toupiao/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/liudezhi/toupiao/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 websocket_mask.bundle ./.gem.20210606-99682-11gpwv4
